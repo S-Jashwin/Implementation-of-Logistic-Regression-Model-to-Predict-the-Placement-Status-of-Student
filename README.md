@@ -16,6 +16,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
  4.Using logistic regression find the predicted values of accuracy , confusion matrices
 
+ 5.Display the results
+
 ## Program
 ![image](https://github.com/user-attachments/assets/b6405033-3d34-4255-a359-92c7631bc0b4)
 
